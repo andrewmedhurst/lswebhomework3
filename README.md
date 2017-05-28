@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Andrew Medhurst
 
-I like to:
+I like to: Construct algorithms
 
-I'm learning:
+I'm learning: Everything. All the time.
 
 ```
 
